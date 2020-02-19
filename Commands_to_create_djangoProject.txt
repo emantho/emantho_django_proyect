@@ -1,0 +1,13 @@
+* django-admin startproject "nombreproyecto" . > se usa le (.) ya que se instalara en esa ubicacion
+* python3 manage.py runserver
+
+
+Walktrought django projects creation
+1. Para crear nuevos aplicativos (paquetes) dentro del proyecto
+* python3 manage.py startapp "nombreproyecto"
+	__init__.py > 
+	admin.py > configuraciones de administracion
+	
+
+
+
